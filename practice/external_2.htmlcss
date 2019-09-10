@@ -1,0 +1,49 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title> externally  linked files to  css</title>
+  
+  <link rel="externalstylesheets" href="external_1.css" type= "text/css">
+  <link reel= "stylesheet" href= "external.css"
+<
+</head>
+
+<body>
+
+        <div id = "container">
+                <header> </header>
+                <main> </main>
+                <footer> </footer> 
+                <h1> Welcome everyone to this web page for practice.
+                </header1> 
+
+            <main>  <p> This is the main text of this site It shpould be really long, so sorry for a not so long sentences.
+            </main> 
+            
+            
+            <footer>  Copyrigtht @copy; 2019 Danny </p>
+            </footer>
+           <div> 
+           </div>
+        </body> 
+         background-color: grey; 
+
+         header 
+         color:  white;
+
+         main:
+
+         cyan;
+
+         footer
+
+         #special
+         font-style: italic;
+
+         color: yellowgreen  
+
+
+
