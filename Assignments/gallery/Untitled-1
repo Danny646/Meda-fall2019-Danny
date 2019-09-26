@@ -1,0 +1,38 @@
+!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+
+
+<body>
+
+    /**custom css    
+    { 
+    background-color: midnight blue;
+    background-image: animal-animal-photography-beak-2625816.jpg; 
+    height: 500px;
+     width: 500px;
+     margin-right: auto;
+     margin-left: auto;
+    }    top: 655px;
+     left: 645px; 
+  <h1>    Images everywhere, we can give you        </h1>
+    <p> Check out these images, we have various categories  We have pictuers of animals, trees, branches all sorts of type of images with animals land animals, birds  insects.
+
+        <div id = div>
+           <div> </div>
+           <div> </div> 
+           <img alt="" src="/Images alligator-animal-crocodile-2576761.jpg/>
+           <img alt""= src/Images 
+</body>
+</html>
+
+</head>

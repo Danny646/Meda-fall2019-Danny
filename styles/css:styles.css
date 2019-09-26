@@ -1,0 +1,76 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+
+
+</head>
+<body>
+   <div id= "container"> 
+ <header> <header> 
+<main> 
+    <div id = "main-gallery">    
+    <div> </div>
+    <div> </div>
+    <div> </div>
+    </div>
+
+/* header start 
+} */ header end
+main { 
+    backgroun-color: whitesmoke;
+    height: 500px;
+footer {
+    background-color: whitesmoke; 
+ 
+    #main-gallery {
+backgroun-color: peach;
+height: 300px;
+width: 32%;
+margin: 0 10px 10px 10px; 
+ 
+}  
+
+/*main end*/
+
+/*footer start 
+
+
+
+
+
+    </main> 
+body {
+}   
+#container{ 
+background-color: grey; 
+width: 80%; 
+height: 200px;
+margin-top: 0;
+}
+ 
+header,main, footer {
+header{ background-color: whitesmoke;
+margin: 10px;
+/* header start 
+}
+main { 
+    backgroun-color: whitesmoke;
+    height: 500px;
+footer {
+    background-color: whitesmoke; 
+ 
+  <script src="js/scripts.js"></script>
+</body>
+</html>

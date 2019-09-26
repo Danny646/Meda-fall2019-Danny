@@ -1,0 +1,140 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+
+
+</head>
+<body>
+   <div id= "container"> 
+    <div id = "flexbox-gallery">
+    div< id = "main gallery"
+   <header> <header> 
+<main> 
+   
+    <div id = "Flexbox-gallery">
+    <div id = "container">
+    <div id = "main-gallery">    
+    <div> </div>
+    <div> </div>
+    <div> </div>
+    </div>
+
+    body 
+#grid-gallery {
+  display: grid;
+  height: 300px;
+  backgroun-color: lightcoral;
+#grid-gallery: nth-child [1] {
+  #grid-gallery: ninth child [2] {
+ #grid-gallery:ninth-child [3] {
+ #grid-gallery: last-child {   
+#grid-galklery: last-child [2]{
+ </head>
+<body>
+   <div id= "container"> 
+ <header> <header> 
+<main> </main> 
+body {
+}   
+#container{ 
+background-color: grey; 
+width: 80%; 
+height: 800px;
+}
+
+header{ background-color: whitesmoke;
+}
+main { 
+    background-color: whitesmoke;
+    height: 500px;
+footer {
+    background-color: whitesmoke; 
+ 
+/* header start 
+} */ header end
+
+
+header,main, footer {
+    header{ background-color: whitesmoke;
+    margin: 10px;
+    
+    
+   
+      <script src="js/scripts.js"></script>
+    </body>
+    </html>
+ 
+ #main-gallery {
+background-color: peach;
+height: 300px;
+width: 32%;
+margin: 0 10px 10px 10px; 
+padding-bottom: 20px;
+
+#container {
+  background-color: whitesmoke;  
+ height: 300px; 
+ margin: 0 10px 10px 10px;
+ text-align; center;    
+padding-bottom: 20px;
+}
+
+#main-gallery >div  {
+ background-color: white;   
+  width: 30%;
+  height: 100%;
+  display: inline-block;
+}
+#main-gallery { 
+background-color: peachpuff;
+height: 300px;
+margin: 0 10px 10px 10px;
+text-align: center 
+padding-bottom: 20px; 
+  
+  main end*/
+
+/*footer start 
+
+
+
+
+
+    </main>*/ 
+body {
+}   
+#container{ 
+background-color: grey; 
+width: 80%; 
+height: 200px;
+margin-top: 0;
+}
+ 
+header,main, footer {
+header{ background-color: whitesmoke;
+margin: 10px;
+
+
+/**/ header start 
+}
+main { 
+    background-color: whitesmoke;
+    height: 500px;
+footer {
+    background-color: whitesmoke; 
+ 
+  <script src="js/scripts.js"></script>
+</body>
+</html>
